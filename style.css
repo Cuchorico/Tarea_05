@@ -1,14 +1,17 @@
-div {
+<img src="Foto de perfil cuenta UC.jpg" alt="Imagen del perfilado"/> {
 	height: 300px;
 	width: 30%;
+	text-align: center
 }
 
 .cabecera{
 	background: skyblue;
-	font-family: sans-serif
+	font-family: sans-serif;
+	text-align: center
 }
 
 
-footer {
+footer{
 	background: lightgrey;
+	text-align: center
 }
