@@ -1,11 +1,21 @@
-#container1 {
-  display: flex; 
-  background: lightskyblue;
-  flex-direction: column;
-  flex-wrap: nowrap
-
+.head {
+	width: 500px;
+	margin: auto;
+	text-align: left;
+	background-color: skyblue
 }
 
-#footer {
-	background: lightgrey
+.body{
+	width: 500px;
+	margin: auto;
+	text-align: right;
+}
+
+.footer {
+	background: lightgrey;
+	text-align: left;
+}
+
+.h2{
+	font-family: Times New Roman
 }
