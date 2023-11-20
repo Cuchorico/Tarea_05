@@ -1,4 +1,7 @@
 .container {
   display: flex; 
-  color: lightskyblue
+  color: lightskyblue;
+  flex-direction: column;
+  flex-wrap: nowrap
+
 }
