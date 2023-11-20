@@ -1,6 +1,6 @@
-.div {
-	height: 150px;
-	width: 20%;
+#div {
+	height: 300px;
+	width: 30%;
 }
 
 .cabecera{
@@ -9,6 +9,6 @@
 }
 
 
-.footer{
+#footer{
 	background: lightgrey;
 }
