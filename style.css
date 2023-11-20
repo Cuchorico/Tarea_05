@@ -1,7 +1,11 @@
 .container {
   display: flex; 
-  color: lightskyblue;
+  background: lightskyblue;
   flex-direction: column;
   flex-wrap: nowrap
 
+}
+
+.footer {
+	background: lightgrey
 }
