@@ -1,4 +1,4 @@
-#div {
+div {
 	height: 300px;
 	width: 30%;
 }
@@ -9,6 +9,6 @@
 }
 
 
-#footer{
+footer {
 	background: lightgrey;
 }
