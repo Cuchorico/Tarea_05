@@ -1,18 +1,12 @@
 .head {
-	text-align: left;
 	background: skyblue
-}
-
-.body{
-	margin: auto;
-	text-align: right;
 }
 
 .footer {
 	background: lightgrey;
-	text-align: center;
 }
 
-.títulos{
-	font-family: Times New Roman
+.cabecera{
+	font-family: sans-serif;
+	background: skyblue
 }
