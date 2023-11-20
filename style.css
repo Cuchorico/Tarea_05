@@ -1,21 +1,18 @@
 .head {
-	width: 500px;
-	margin: auto;
 	text-align: left;
-	background-color: skyblue
+	background: skyblue
 }
 
 .body{
-	width: 500px;
 	margin: auto;
 	text-align: right;
 }
 
 .footer {
 	background: lightgrey;
-	text-align: left;
+	text-align: center;
 }
 
-.h2{
+.títulos{
 	font-family: Times New Roman
 }
